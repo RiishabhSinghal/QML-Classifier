@@ -1,5 +1,5 @@
 ## Quantum Machine Learning for Fraud Detection using Variational Quantum Classifier (VQC)
-####📌 Objective
+#### 📌 Objective
 
 The objective of this project is to design and implement a Hybrid Quantum Machine Learning (QML) pipeline for fraud detection and compare its performance with classical machine learning models using robust evaluation metrics such as ROC-AUC and F2-score on an imbalanced dataset.
 
